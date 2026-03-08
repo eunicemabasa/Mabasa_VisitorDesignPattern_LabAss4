@@ -7,4 +7,4 @@ Implement a visitor design pattern approach. You must show the different element
 Design your own UML Class Diagram.  Paste the problem scenario and the UML diagram in the readMe file of your designated gitHub repository.
 
 ## UML DIAGRAM 
-[Image]()
+[Image](https://github.com/eunicemabasa/Mabasa_VisitorDesignPattern_LabAss4/blob/main/VisitorDesignPattern.png)
